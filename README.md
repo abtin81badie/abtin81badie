@@ -47,7 +47,9 @@ I'm a passionate developer who loves building scalable solutions and exploring t
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL"/>
     </td>
   </tr>
   <tr>
@@ -67,7 +69,9 @@ I'm a passionate developer who loves building scalable solutions and exploring t
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/><br>
+      <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logoColor=white" alt="Deep Learning"/><br>
+      <img src="https://img.shields.io/badge/LLM_Agents-8B5CF6?style=for-the-badge&logoColor=white" alt="LLM Agents"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/><br>
@@ -80,7 +84,8 @@ I'm a passionate developer who loves building scalable solutions and exploring t
     <td align="center">
       <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="Fiber"/><br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/><br>
+      <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GORM"/>
     </td>
   </tr>
 </table>
@@ -92,6 +97,8 @@ I'm a passionate developer who loves building scalable solutions and exploring t
 - 🏗️ **Building scalable backend systems** that can handle millions of requests
 - 🎨 **Crafting responsive UIs** with modern frameworks and best practices
 - 🤖 **AI/ML experiments** exploring neural networks and deep learning
+- 🧠 **Deep Learning projects** with experience in building and training models
+- 🤝 **LLM Agents development** - Creating intelligent conversational agents
 - ⚡ **Automation enthusiast** - if it can be automated, I'll find a way!
 - 🔧 **Performance optimization** and system architecture design
 - 📚 **Continuous learning** - always exploring new technologies and paradigms
@@ -113,7 +120,7 @@ I'm a passionate developer who loves building scalable solutions and exploring t
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtinbadie81@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abtinbadiee81@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abtin_003)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abtin81badie)
 
@@ -130,5 +137,5 @@ I'm a passionate developer who loves building scalable solutions and exploring t
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abtinbadiee&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=abtin81badie&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
