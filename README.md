@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there! I'm Abtin
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E535AB&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Namava;.NET+%7C+C%23+Specialist;VOD+Platform+Engineer;Building+Scalable+Streaming+Solutions;Always+pushing+the+limits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E535AB&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+%7C+C%23+Specialist;Building+Scalable+Streaming+Solutions;Always+pushing+the+limits" alt="Typing SVG" />
 </div>
 
 <div align="center">
